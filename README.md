@@ -21,3 +21,5 @@ Detailed Intro Of The Algo
     Instagram: @patrick_forreal
                @sam.dev404 
     Email: patrickpaul370@gmail.com
+
+![Capture](https://user-images.githubusercontent.com/51241762/145018395-fb203dc1-49b8-483d-95c6-1a979f2acb00.JPG)
