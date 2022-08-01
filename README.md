@@ -15,7 +15,8 @@ Detailed Intro Of The Algo
   For Talks About It... 
   
   Instagram: @patrick_forreal
-   Email: patrickpaul370@gmail.com
+  
+  Email: patrickpaul370@gmail.com
     
 ![P-Sort Algo](https://user-images.githubusercontent.com/51241762/182129498-8dfdd05b-2a17-490a-a83f-2097d5e37c9b.PNG)
 
