@@ -1,25 +1,21 @@
 # P-Sort-Algorithm
 Brief intro Of The Algo
 
-P-Sort Algorithm is an inefficient sorting algorithm derived from the
-idea of Binary Search Technique... It's works very fine and I welcome
+P-Sort Algorithm is an inefficient sorting algorithm
+It's works very fine and I welcome
 Any One For Code Review on it! 
 
 Detailed Intro Of The Algo
 
   This algorithim Works By sorting an arrays of any length with random,
-  non-repeating whole numbers in a linear manner by ascending order 
-  basing On Your Computer's Computing Speed.
+  non-repeating whole numbers in a linear manner by ascending order.
   This algorithim is designed and developed by Patrick Paul, under the
   inspiration of Binary Search Algorithim.
   
-  Depending On Your Computer's Computing Power, This Algorithim Can Sort 
-  Numbers To Unlimited Level!!! 
-  @ 2021 Horizon Corporation . All Rights Reserved
   For Talks About It... 
-    Git: sam-dev404
-    Instagram: @patrick_forreal
-               @sam.dev404 
-    Email: patrickpaul370@gmail.com
+  
+  Instagram: @patrick_forreal
+   Email: patrickpaul370@gmail.com
+    
+![P-Sort Algo](https://user-images.githubusercontent.com/51241762/182129498-8dfdd05b-2a17-490a-a83f-2097d5e37c9b.PNG)
 
-![Capture](https://user-images.githubusercontent.com/51241762/145018395-fb203dc1-49b8-483d-95c6-1a979f2acb00.JPG)
